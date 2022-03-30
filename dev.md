@@ -1,2 +1,2 @@
-dev text
-some update
+first line
+second line
